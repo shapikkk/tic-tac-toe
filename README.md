@@ -1,2 +1,2 @@
 tic-tac-toe
-easily JScode
+easily
